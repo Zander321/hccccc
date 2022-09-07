@@ -12,5 +12,5 @@ jobs:
         with:
           python-version: 3.9.1
       - name: hello
-        run: |
+        run: 
           main.py
