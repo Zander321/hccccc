@@ -13,4 +13,4 @@ jobs:
           python-version: 3.9.1
       - name: hello
         run: |
-          python3 main.py
+          main.py
